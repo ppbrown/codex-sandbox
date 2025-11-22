@@ -1,3 +1,6 @@
+
+# Run with   python -m pytest tests
+
 import pytest
 
 from dbsim import DBSim
